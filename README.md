@@ -1,4 +1,4 @@
-- Here for fun 💻
+- Here for learn, explore, fun 💻
 
 <!---
 fdt15/fdt15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
